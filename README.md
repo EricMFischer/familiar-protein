@@ -30,7 +30,7 @@ a greater learning while ignoring the complexities of modern software projects."
   -- Todd Glass, CIO
   
 ## Where
-  [Regexmatch.herokuapp.com](http://regexmatch.herokuapp.com)
+  [Regex Challenge](http://regexmatch.herokuapp.com)
 
 ## Student
   "After learning regular expressions with [Regex Game], I write much more elogant and efficient
@@ -39,4 +39,4 @@ code"
   -- Ricky Mort
   
 ## Get Started
- Visit us at [regexmatch.herokuapp.com](http://regexmatch.herokuapp.com)  
+ Visit us at [Regex Challenge](http://regexmatch.herokuapp.com)  
